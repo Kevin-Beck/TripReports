@@ -11,4 +11,4 @@ As someone who loves to analyze things, prepare for a lot of overanalyzing. I'm 
 
 
 
-9/12/2020:  ![ImageTest](Pitt-DC-Solo-1Day/Images/BikeSetup.jpg)
+9/12/2020:  ![ImageTest](Images/BikeSetup.jpg)
