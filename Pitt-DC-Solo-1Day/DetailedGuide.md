@@ -28,16 +28,30 @@ I'll be the first to admit I am not a cyclist in the most sinere way. I've alway
 
 Here are the pieces of data for riding history for the above riders who had strava linked:
 
-Sean C
+**Sean C**
+
 ![](Images/SeanC.png)
-Chris S
+
+
+**Chris S**
+
 ![](Images/ChrisS.png)
-Spencer R
+
+
+**Spencer R**
+
 ![](Images/SpencerR.png)
-Aedan H
+
+
+**Aedan H**
+
 ![](Images/AedanH.png)
-Kevin B
+
+
+**Kevin B**
+
 ![](Images/KevinB.png)
+
 
 OK OK OK before you start into how I didnt train properly I was doing a very strict very significant lifting routine for November through February. This taught me a whole slew of things that I didnt know before, I'll get into this later. The main point is, while it looks like I wasnt biking. I was staying extremely on top of my fitness through the winter, and I had biked a similar summer the year prior. So I wasnt completely unprepared. But yeah the rest of these guys are legends.
 
