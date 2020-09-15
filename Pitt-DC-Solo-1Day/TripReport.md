@@ -60,3 +60,11 @@ Mile marker 11. I must have missed the worm hole due to the darkness, but clearl
 
 Look at this guy, this is a man who has biked **FAR** beyond his limits. I mean that is a startling difference.
 ![](Images/NotSoHappy.jpg)
+
+## Ending Remarks
+
+I'll be linking another page to walk through exactly what I did to prepare and endure the ride. A true piece by piece breakdown of what I took and why. Partially for my own record and future reference, but also because I would have loved to have had that info available to me before embarking.
+
+To end on a less offensive picture, I ate about 7500 calories during the ride while on the bike which included about 1375g of carbs. 1.3kg of carbs is a lot, I was curious so it looks like this:
+
+![](Images/ProteinFatSugar.jpg)
