@@ -30,7 +30,11 @@ This was the first tear drop. I'm not ashamed to say this trip pushed me to tear
 
 ### Part 4: 120 -> 150  |  Average Speed: 19.9 mph  |  Miles to go: 183
 
-WOW what a rush and what a relief. I knew it would be nice to roll downhill for some free miles, but I didn't expect to feel completely revitalized. The air warmed as the elevation dropped and I spent that coasting time regrouping mentally and re-evaluating the goal. Approaching Cumberland I felt a bit shaken but overall confident in my plan. Cumberland is the end of the GAP and the start of the C&O. This makes it a dangerous place for thinking of it as halfway, when in reality you're still at least an hour from halfway done. I stuck to my no-stopping-at-stores plan and just pulled off to the side of the trail to eat as many fist fulls of dried banana slices and pineapple chunks as I could. While chewing I set up my bike light and strapped my headlamp on. I also traded out my sunglasses for the clear safety glasses in my bag. The day was fading and I was hoping to not see sun-up so this was the time to get it all ready. Look at this face. This is the face of a man who has biked well within his limits. A man who has seen 145 miles of car-free trails with a clear head in pretty ok weather, so fun!
+WOW what a rush and what a relief. I knew it would be nice to roll downhill for some free miles, but I didn't expect to feel completely revitalized. The air warmed as the elevation dropped and I spent that coasting time regrouping mentally and re-evaluating the goal. Approaching Cumberland I felt a bit shaken but overall confident in my plan. Cumberland is the end of the GAP and the start of the C&O. This makes it a dangerous place for thinking of it as halfway, when in reality you're still at least an hour from halfway done. I stuck to my no-stopping-at-stores plan and just pulled off to the side of the trail to eat as many fist fulls of dried banana slices and pineapple chunks as I could. While chewing I set up my bike light and strapped my headlamp on. 
+
+![](Images/Intersection.jpg)
+
+I also traded out my sunglasses for the clear safety glasses in my bag. The day was fading and I was hoping to not see sun-up so this was the time to get it all ready. Look at this face. This is the face of a man who has biked well within his limits. A man who has seen 145 miles of car-free trails with a clear head in pretty ok weather, so fun!
 
 ![](Images/CoolShades.jpg)
 
@@ -38,7 +42,7 @@ WOW what a rush and what a relief. I knew it would be nice to roll downhill for 
 
 Noteworthy to mention this small 17 mile section as it linked the start of the C&O path with the halfway point. I was extremely excited to reach halfway, I had the mountain behind me. I had the cool calm night ahead of me, the trail wasn't as bad as I remembered the last time I had seen it, 3 years or so ago. And my pace is great now that it's flat. At halfway I was at 9h45m moving time and 50 minutes stopped for a total elapsed time of 10h35m. "Wow, since I dont have hills maybe I can make it under 21 hours," I said to myself with a complete lack of understanding of what lies ahead. This is going to be fine. Its flat, you have more than 13 hours to get there in under 24 hours. Everything is going to be fine. With 100 miles left to go I get a call from my parents who arranged to pick me up (at the end or earlier if I dont make it). I feel confident, but its getting tougher to keep things together. I make my final call to my wife (currently working in Illinois) before she heads to bed and the thought of laying down, even on the cold wet ground, sounds so incredibly great.
 
-![](Images/HalfWay.jpg)
+![](Images/Halfway.jpg)
 
 ### Part 6: 167 -> 250  |  Average Speed: 15.5 mph  |  Miles to go: 85
 
