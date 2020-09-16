@@ -1,4 +1,4 @@
-## Pittsburgh to DC: A How To
+## Pittsburgh to DC as fast as possible: A How To
 
 # Required Warnings
 
@@ -81,7 +81,9 @@ I would highly recommend getting at least some miles on the C&O before making a 
 
 # Nutrition
 
-First you're going to want to know exactly what food you will want to take, this will come with training. You will learn what you do and dont like to eat, and espeically what you dont like to eat after 100 miles. Your tastes change pretty significantly based on how much you're working and sweating and a lot of times I'd be really put off by something that I usually love and start day dreaming of some obscure salty snack or whatever. Its a matter of honing in on what you like and then how you manage eating it. A good portion of the food I took I ended up not eating, I had expected to be more interested in some stuff but couldn't stomach it. You should be practicing all of this on every single ride.
+First I'm not going to get into Keto and all that. This is just what I did, I mainly tracked calories, found my calories burned and tried to eat as much as possible while riding. This isnt a "the best nutrition guide" its what I did to make it happen. Some parts of this are just good advice, but if you're a health nut, you know what you're doing so dont go changing to match this guide.
+
+You're going to want to know exactly what food you will want to take, this will come with training. You will learn what you do and dont like to eat, and especially what you dont like to eat after 100 (or 200+) miles. Your tastes change pretty significantly based on how much you're working and sweating and a lot of times I'd be really put off by something that I usually love and start day dreaming of some obscure salty snack or whatever. Its a matter of honing in on what you like and then how you manage eating it. A good portion of the food I took I ended up not eating, I had expected to be more interested in some stuff but couldn't stomach it. You should be practicing all of this on every single ride.
 
 Heres a list of what I took, it was enough calories, but I didnt finish a lot of it.
 
@@ -107,13 +109,15 @@ My first few hours were:
 
 When the bananas ran out I switched to other foods. But would have liked to have stuck with that rotation. The GU was amazing but I saved it for much later when I didnt feel like chewing.
 
+Another thing to keep in mind is the difficulty to eat while riding. You need to be eating a lot, and you'll also be sucking wind pretty good. I mentioned the crackers, but even the granola bars got crumbly which made it a challenge to not drop pieces. Whatever food you're taking, try smashing them up in your hands for a while then try to eat them. Thats what it will be like when you get it out of your bag 14 hours in. Also figure out how you're going to store it on the bike in a way thats easy to access. I'd recommend absolutely stuffing your jersey pockets full. I think a frame bag would also work well but I dont have experience with that. I put 4+ snacks in each of my 3 jersey pockets, this would last me 4-6 hours. Also keep in mind that you'll want a pocket for trash, so try to empty out a pocket first so you can start stuffing trash into it. Then when you hit a water stop you can dump your trash, refill food if needed and get back to it.
+
 In retrospect I would have done twice as many kind bars and crackers 6 more GU and cut the protein and brownies. It would have been nice to have more bananas but they're hard to carry and pack. Also more scratch would have been nice, I didnt like the Nuuns I took when I got to that point. I also should have made little bags of the pineapple and the bananas. I only had one big bag which meant I could only have them during stops.
 
 I think my carb limit is about 100g of carbs / hour. But I only averaged like 60g of carbs / hour for the whole trip.
 
 I also forced fluids the entire time. The only way I knew I was hydrating properly was if I was peeing. My strategy was "Do I have to pee? no -> drink gulp of water, yes -> drink sips of water." Then I held my pee as long as I could to avoid unneeded stops (at least at the beginning when I wasnt constantly stopping).
 
-Another thing to note is I hit breakfast pretty hard, I had 3 eggs, 3 pieces of toast, a monster of a PB&J and as much gatorade as I could chug. I wanted to be bursting with sugar at the start. More on this in the execution section.
+Another thing to note is I hit breakfast pretty hard, I had 3 eggs, 3 pieces of toast, a monster of a PB&J and as much gatorade as I could chug. I wanted to be bursting with sugar at the start. I would have tried to do a double breakfast if I was going for it again. Wake up, breakfast, get ready, 2nd breakfast. More on this in the execution section.
 
 At my only stop I ate a rice crispy treat and 3 chicken wraps. I then picked up 2 Monster Maxx cans. I drank 1, but I shoud have picked up more cans because this ended up being basically the end of my caffeine, which was rough.
 
@@ -173,6 +177,9 @@ So I'll just go in order an check in on every piece. Chamois creme is a magical 
 
 The headlight was bad. Its an ok headlight but I really just needed a better one. I had the headlamp and I thought that both would light up things pretty well but late at night when you're fading out you want absolutely no lighting issues. I'd recommend going way above what I rode with. I'd say 3x as bright. I have longer plans to work with a dynamo hub and such but for this ride you dont need it, but you do need a brighter light. So get some practice with actual hard night riding. Not pretty dark streets. Go out in the woods and try to bike 16 mph in the dark with your light. If its not extremely easy, you need more light.
 
+Check this out, you want something that looks like the right, not something that looks like the left:
+https://www.bikelightdatabase.com/beamshots/#left%5Bmode%5D=117&left%5Blight%5D=volt100&right%5Bmode%5D=120&right%5Blight%5D=volt700
+
 I took a leatherman beause I find that if something goes real bad its nice to have the option to get surgical with some pliers on a broken deraileur or whatever. Also the bike tool is obvious. You may need to tighten handlebars or whatever so you dnt want to be without it.
 
 Two spare tubes was totally enough, I didnt have any flats, but it was an old rule of mine on longer trips to have 2 spares so you're not terrified when you replace a flat. The new bike has storage in the down tube for the flat kit so its pretty easy to just toss another tube in the bag.
@@ -191,7 +198,7 @@ I took a Nitecore NB10000 powerbank with me. This had enough to fully charge my 
 
 I like the Elemnt Bolt, but I'm sure theres a wide variety of great gps units so I wont pretend to know better. This worked for me. The battery life was great, but I made sure to charge at the 10 hour mark to re top off the battery (then I forgot to charge my phone which ended up dying later).
 
-Aero bars. I love them and hate riding without them.
+Aero bars. I love them and hate riding without them. Not having them just doesnt make sense to me for this kind of thing. I'm not saying take a time trial bike, its just that the bars let you take the weight off.
 
 ### TO Gear
 
@@ -199,17 +206,46 @@ This is obviously rider dependent to a high degree. I would say that aero bars a
 
 Other than that I wont say anything other than to cut everything you think you can cut. Get rid of that weight. I'd also say organize your gear to really maximize efficiency. There were times I'd have to remove gear from the bags to get to my other stuff. Would have been nice to be able to have bag dividers that would keep things cleaner and more efficient.
 
+I'd also go tubeless. I wanted to but ended up opting to just run with what I had and carry tubes.
+
 Gear is an area where I'm still learning a lot, so I feel like if you're reading this you probably know better than I do.
 
 ### T1 Gear
 
 I'd say breaking the 24 hour barrier is really gear independent. Its not like having a leatherman or not is going to save you the weight that will push you across the line. Make sure you have enough of the stuff you know you'll need, like Chamois creme, and make sure you have tested out the lights. I set up my lights pointing at the wall in a dark room, then I took a picture. 8 hours later I went back and checked the light by comparing another picture. Based on that I decided to take extra batteries because it made enough of a difference. Granted I never changed them but I was a bit concerned.
 
+Also you may want to practice a flat if its been a while. Time yourself and see how long it takes to unpack, swap the tube, and repack. If this takes you 30 minutes you may want to practice on it. You're trying to hit the sub 24 mark so you'll not want a routine mechanical to put you out. Bonus points if you set an alarm for 4am and do the wheel change groggy and by headlight. 
+
 # Bike Setup
 
 ![](Images/BikeSetup.jpg)
 
-// aero bars
+So back to the aero bars. I just love them, it helps me keep a constant position, it feels like its easier to engage my glutes and keep my pedaling consistent. I hung a bag off the front, on the top tube, one off to the right of the inside of my handle bars, and one off the back of my seat post.
+
+- Oveja Negra -> seatpost bag https://www.ovejanegrabikepacking.com/collections/seat-bags/products/gearjammer-seat-bag
+- Oveja Negra -> top tube bag https://www.ovejanegrabikepacking.com/collections/top-tube-bags/products/snack-pack-top-tube-bags-large-xl
+- Oveja Negra -> chuck bucket https://www.ovejanegrabikepacking.com/collections/handlebar-bags/products/chuckbucket-handlebar-bag
+- Restrap -> aero bar bag https://us.restrap.com/products/race-aero-bar-bag
+
+Shoutout to my wife Sarah Skelly for the Oveja Negra bags. She's a cycling machine and does all the research and reading and testing to find great bags, and then I steal them.
+
+I had a lot of concern about the water, I had been running out of water between stops in some practice rides on the GAP, granted it was like 95 degrees out. But this fear made me realize I would absolutely need more water. So I decided to use the front bag to hold a water bladder (pictured on the right in the gear image). It was only 1.5L and I put a jacket in the front mainly to help the water bag sit better. I drank from the bottles first then if needed would sip on the hose that I wrapped around the bag and up into the handlerbars. This gave me 3L of water. This was more than enough, but I did dip into the reserve quite a few times. During water stops I usually didnt fill the reserve. I knew it would be tedious to un pack and repack, so I only refilled it when I knew it was getting low, and that was only once on the trip (about 7 hours in).
+
+The front aero bar bag was pretty good for keeping some extra snacks attached to the top between the bars. I also attached my bike computer to the right side of the aero bars. The chuck bucket bag was on the outside of the aero bars, behind the handlers bars. If I was out of the saddle my knee could hit this bag, but I didnt plan on standing much. In the chuck bucket was all my GU, Scratch, and salt/pain killer pills. Having these things handy was important. Being able to grab scratch easily without digging around in a bag was great and being able to snag a GU when you're dying at the end was convenient. The bike computer had only heart rate, average heart rate, speed, average speed on it. I had another page with distance and moving time etc on it, but I didnt want to be seeing that the entire ride. HR and speed were the things I could control. 
+
+In the top tube bag I kept my wallet, battery pack and cords, and phone and headphones. This is the bag that is 100% on my bike. On training rides this is where I keep my phone and wallet etc. I cant imagine riding without it. I did check to make sure my cord would reach from the battery pack to the bike computer. No complaints here. 
+
+The seat post bag was packed with medical stuff the deepest, then tools, then food. I knew I'd be grabbing that food and was hoping not to have to get into tools and medical stuff. Again I didnt want to be getting into this bag very often so when I did I made sure to top off my food and stuff my jersey pockets.
+
+I also ran my light off the front of my drop on the right handle bar. This was dumb. My shifting levers hit it. I had no where else to put it, so I just switched it to the left as I was in the big wheel 100% of the time anyways. I really should have figured out my lights better.. 
+
+### T0 Bike Setup
+
+The only advice I can give here is to not keep your wallet with you, pack it in somewhere cause you're not stopping anywhere. Also I'd make sure to do lots of testing and trials with your set up and not change anything up last minute. You will be tight on some room if you cut a bag, or want to take extra stuff so make sure you're packing efficiently and managing your space effectively.
+
+### T1 Bike Setup
+
+Take less bags! If you're going to be stopping for food a lot, just take less stuff. You will for sure need bags though, there is a pretty big gap in food towards the end on the C&O so you'll need to carry stuff. But you dont need to be worrying about how to pack in 10,000 calories of food, just pack what you need and same advice as above, pack your gear and do test rides. Dont swap out your bike setup for something new the day before your ride.
 
 # Route Planning / Weather Considerations
 
