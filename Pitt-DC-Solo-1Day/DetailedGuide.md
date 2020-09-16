@@ -264,13 +264,11 @@ So you're staying on the C&O you've been on the whole time, but then what happen
 
 ![](Images/TransitionOfTrails.jpg)
 
-Ok Kevin but why are you putting those marks down to the Capital Crescent trail? That has to be the wrong way right? Wrong. Or well. I dont know. I think this all comes down to what you're trying to do. I'm certainly not going to judge you for taking one trail or the other. At this point I'd say you've done your best to get to DC on the trail, I'd pick one and finish it out. You may ask, why would you want to take the trail that is obviously the wrong name, well as you will see below, thats because its actually the fastest way to the C&O Canal Towpath Mile Marker 0. The C&O canal trail marked in orange above leads to Lock 1 and the trail head seen here:
-
-![](Images/Lock1.png)
+Ok Kevin but why are you putting those marks down to the Capital Crescent trail? That has to be the wrong way right? Wrong. Or well. I dont know. I think this all comes down to what you're trying to do. I'm certainly not going to judge you for taking one trail or the other. At this point I'd say you've done your best to get to DC on the trail, I'd pick one and finish it out. You may ask, why would you want to take the trail that is obviously the wrong name, well as you will see below, thats because its actually the fastest way to the C&O Canal Towpath Mile Marker 0.
 
 In this overview picture below you can see the conflict of interest. Does the C&O trail mark the end of the journey or the C&O Mile Marker 0? I think either is valid and honestly after 330+ miles you've earned it. Just pick one and know ahead of time which way you plan on going so you're less likely to get turned around when your brain is no longer functioning.
 
-!{}(Images/Overview.jpg)
+![](Images/Endpoints.jpg)
 
 Ok thats the end of my ranting about the finish. I found this very confusing in preparation and also in execution so I'm not sure what way is the correct way, I just wanted to see mile marker 0, so thats where I went. I dont think anyone who has done this is going to look down on you one way or the other (but I will say if you just end it when you feel like the C&O doesnt go anywhere I will say "hmm looks like you skipped out on the last mile" or something snarky like that). Fair warning.
 
