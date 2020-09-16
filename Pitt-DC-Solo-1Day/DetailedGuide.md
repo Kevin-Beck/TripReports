@@ -179,8 +179,9 @@ The headlight was bad. Its an ok headlight but I really just needed a better one
 
 Check this out, you want something that looks like the right, not something that looks like the left:
 https://www.bikelightdatabase.com/beamshots/#left%5Bmode%5D=117&left%5Blight%5D=volt100&right%5Bmode%5D=120&right%5Blight%5D=volt700
+Note that those lights are only rocking 2 hours of battery life. So this isnt a recommendation for a light, just advice for what you want your trail to look like when its lit by your light (also there arent any reflectors on the trails.)
 
-I took a leatherman beause I find that if something goes real bad its nice to have the option to get surgical with some pliers on a broken deraileur or whatever. Also the bike tool is obvious. You may need to tighten handlebars or whatever so you dnt want to be without it.
+I took a leatherman beause I find that if something goes real bad its nice to have the option to get surgical with some pliers on a broken deraileur or whatever. Also the bike tool is obvious. You may need to tighten handlebars or change your seat or whatever so you dont want to be without it.
 
 Two spare tubes was totally enough, I didnt have any flats, but it was an old rule of mine on longer trips to have 2 spares so you're not terrified when you replace a flat. The new bike has storage in the down tube for the flat kit so its pretty easy to just toss another tube in the bag.
 
@@ -243,14 +244,51 @@ I also ran my light off the front of my drop on the right handle bar. This was d
 
 The only advice I can give here is to not keep your wallet with you, pack it in somewhere cause you're not stopping anywhere. Also I'd make sure to do lots of testing and trials with your set up and not change anything up last minute. You will be tight on some room if you cut a bag, or want to take extra stuff so make sure you're packing efficiently and managing your space effectively.
 
+I will note that I did this on bontrager r1 hard-case lite 700x32c tires. They obviously worked but I was wondering about the choice as I slid all over the trail on the C&O. I think if it had been drier it would have been fine, but keep that in mind. I also didnt have them super inflated as it helps with the bumps of gravel. I smashed some big sticks and potholes hard which made contact with the rim a couple times which had me wincing and fearing a pinch flat. I think a slight step towards a gravel tire or something with a tad more tread would have been better. It is a trade off though, I felt very very comfortable on the GAP so I geared for that and figured I'd face the demons on the C&O (which I certainly did).
+
 ### T1 Bike Setup
 
-Take less bags! If you're going to be stopping for food a lot, just take less stuff. You will for sure need bags though, there is a pretty big gap in food towards the end on the C&O so you'll need to carry stuff. But you dont need to be worrying about how to pack in 10,000 calories of food, just pack what you need and same advice as above, pack your gear and do test rides. Dont swap out your bike setup for something new the day before your ride.
+Take less bags! If you're going to be stopping for food a lot, just take less stuff. You will for sure need bags though, there is a pretty big gap in food towards the end on the C&O so you'll need to carry stuff. But you dont need to be worrying about how to pack in 10,000 calories of food, just pack what you need and do test rides with all your gear fully packed. Dont swap out your bike setup for something new the day before your ride.
 
 # Route Planning / Weather Considerations
 
-// windy app
+Theres not much to say when it comes to the route, continue straight on the GAP, then continue straight on the C&O. However, there are some parts where it is a little confusing. There is a spot on the C&O where you come out of the trail onto the road and in the night it was hard to know you have to turn right and then then left back onto the trail. This was not something that was super difficult but I lost a minute sitting on a road looking at my phone making sure I was going where I needed. I would absolutely without a doubt do a ride out of Pittsburgh. From the point, go to the water front, then to mckeesport, then across the bride and along the road up and over a small hill until you hit the gravel trail. I could absolutely see why this would be confusing for people never having done it before. There are a lot of assumptions (oh i guess just... go down this road now?) and its not as well marked as it should be. The first 3.5 miles are a little weird, then you build up a bunch of confidence on the paved section. Its pretty straight forward to the gravel trail in the water front but once you get to/past mckeesport you'll want to also know what you're doing.  I'd recommend doing at least the first 25 miles out of pittsburgh once before you do your trip. You'll probably want to do more, but if you're from out of town I highly highly recommend making the trip once before hand to get familiar with the first 25. Its just not worth losing 5 minutes in the first 10 minutes of your trip getting turned around. Its pretty well marked on google, but in person it just feels unintuitive during some bits.
+
+As someone out of town when it comes to DC at least its pretty obvious where you're going, until you get to the last mile. The marker is extremely difficult to find for some reason. You end up biking through a parking lot kind of thing to find the mile marker 0. I'm going to do a comprehensive run down of this because this was an infuriating thing to try to sort out.
+
+The C&O Canal Towpath runs along the water and is gravel. It looks the same as it has for the last 100 miles. Suddenly there is a trail on the right as you come into town. It is a paved. It is lovely. I did not take it but I was getting confused because I thought I was supposed to be nearer to the potomac river. That paved trail is called the Capital Crescent Trail. As you continue onward it gets even worse. There is the Capital Crescent Trail head, and then on the other side of the canal is the C&O, yes there is another branch of the C&O that now exists.
+
+![](Images/3Trails.png)
+
+So you're staying on the C&O you've been on the whole time, but then what happens is you'll run out of trail. Below you can see the trainsitions of the trail, you're on the green and you'll need to figure out how to get across the river to the orange trail which is the other branch of the C&O, this will take you to the trail head.
+
+![](Images/TransitionOfTrails.jpg)
+
+Ok Kevin but why are you putting those marks down to the Capital Crescent trail? That has to be the wrong way right? Wrong. Or well. I dont know. I think this all comes down to what you're trying to do. I'm certainly not going to judge you for taking one trail or the other. At this point I'd say you've done your best to get to DC on the trail, I'd pick one and finish it out. You may ask, why would you want to take the trail that is obviously the wrong name, well as you will see below, thats because its actually the fastest way to the C&O Canal Towpath Mile Marker 0. The C&O canal trail marked in orange above leads to Lock 1 and the trail head seen here:
+
+![](Images/Lock1.png)
+
+In this overview picture below you can see the conflict of interest. Does the C&O trail mark the end of the journey or the C&O Mile Marker 0? I think either is valid and honestly after 330+ miles you've earned it. Just pick one and know ahead of time which way you plan on going so you're less likely to get turned around when your brain is no longer functioning.
+
+!{}(Images/Overview.jpg)
+
+Ok thats the end of my ranting about the finish. I found this very confusing in preparation and also in execution so I'm not sure what way is the correct way, I just wanted to see mile marker 0, so thats where I went. I dont think anyone who has done this is going to look down on you one way or the other (but I will say if you just end it when you feel like the C&O doesnt go anywhere I will say "hmm looks like you skipped out on the last mile" or something snarky like that). Fair warning.
+
+One more thing I'd like to mention is the weather. You're going to probably want to be planning for a June trip and hopefully finding yourself a nice cool day. However there are a lot of factors I'd keep in mind here. If it has rained recently (which unfortunately for me it had) on the C&O you can for sure expect branches and trees down and a lot of mud. I'd shoot for at least 3-5 rain free days for the C&O. I'd also be routinely checking Windy.com for wind and temperature information (another shout out to my wife Sarah for being a weather nut). The site provides a ton of detail and has been generally accurate multiple days in advance.
 
 ![](Images/Windy.png)
 
+I was also unlucky with wind as I had a pretty rare wind out of the SE which meant headwinds for a lot of the trip. This is pretty rare, but also something worth investigating.
+
+### T0 Route Planning and Weather
+
+You're going to for sure do the first 25 miles of the GAP at least twice. You will also be doing the final 10 miles of the C&O twice, preferably at the end of some long rides and also at night. This will be your best way to prepare. You will also be retired or at least willing to take off days when the conditions are perfect. You cant trust that the weekend will be the time to do it, so you're going to keep your June open and monitor the rain NW of DC. When you have no rain for a while, and the weather is good enough for you to rock, you'll make your final prep and go for it. Hey do you want sub 20 hours or not, I thought you were taking this serious.
+
+### T1 Route Planning and Weather
+
+Just make sure you've thoroughly walked through the ends of the route on google. Be willing to double check your phone or even keep your phone out for the start and end of the ride. You dont need to be as concerned about the absolute perfect conditions, but you for sure dont want to be actively getting rained on.
+
 # Execution
+
+So we've made it. Execution. This is probably going to be a long section. I'm going to walk through my thought process first and then I'll write myself some T0 advice and a brief T1 sub 24 advice section. 
+
