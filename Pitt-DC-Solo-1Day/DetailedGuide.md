@@ -124,7 +124,7 @@ My total calories for breakfast + riding was as follows:
 
 My normal day is obviously far less calories, for the summer of cycling I tried to stick to about 1/3 of each, and ranged from 2300 to 2800 calories.
 
-# TO Nutrition
+### TO Nutrition
 
 You have to know **everything** about what you will need. You're going to pack in all food and not stop anywhere, so you need the exact amount of calories with a little buffer. You cant underestimate. You will want to track every calorie during your training along with your weight. Use any tracking app but use it constantly. Before and after rides weigh yourself. You'll want to be trying to get your pre-ride weight into a narrow enough window and make sure you're finishing at the same weight (meaning you're not losing water). This will let you know exactly how much water to be drinking. 
 
@@ -134,13 +134,13 @@ My biggest piece of advice here is to really really know what you like and give 
 
 Also consider how you're going to do caffeine. I find it hard to imagine you're reading this and also a person who doesnt drink a lot of coffee or whatever. You'll need to sort out exactly how you'll dose this out, this seems like a pretty personal thing so I'll leave this up to you.
 
-# T1 Nutrition
+### T1 Nutrition
 
 I'd recommend if you're trying to do a sub 24 to limit the amount of stuff you're carrying. Just bring a bit more than you need to accomplish the miles to the next stop. I'd also recommend carrying enough to make it to the next stop incase you have an issue and need to skip a town, plus it opens up your options a little. The best thing you can do is really really understand your stops. You'll be able to comfortably pick up food at your stops so just know what you'll want as you approach. Then know how to get to and from your stops correctly.
 
 The above T0 information won't be a important because you'll have the options to refuel as needed during these pit stops and that should really help smooth out your riding. I would recommend doing some practice stops in training and timing them out. Find out what an average stop is for you and then make sure you arent scheduling too many for you to make it in by the 24 hour mark. They add up super quick. A 15 minute stop is very very easy to do, 25 minutes will sneak up on you really quick. 4 towns at 25 minutes will pretty much ruin your chances. You'll want to keep tabs on it during the ride to see if you'll need to skip a stop. Also dont go too wild with the food. Sometimes having so many options will be dangerous, you'll get a little too aggressive with "I love spicy cheese chips" or whatever, but then an hour later be suffering with an upset stomach. So know your limits and do what you need to do.
 
-### Gear List
+# Gear List
 
 ![](Images/Gear.jpg)
 
@@ -193,7 +193,7 @@ I like the Elemnt Bolt, but I'm sure theres a wide variety of great gps units so
 
 Aero bars. I love them and hate riding without them.
 
-# TO Gear
+### TO Gear
 
 This is obviously rider dependent to a high degree. I would say that aero bars are just free energy savers. You get the mild aero benefit, but you save your hands and your back and shoulders. Its just such a huge benefit to have the option to keep a different stance when you want. For sure a great thing to consider.
 
@@ -201,20 +201,20 @@ Other than that I wont say anything other than to cut everything you think you c
 
 Gear is an area where I'm still learning a lot, so I feel like if you're reading this you probably know better than I do.
 
-# T1 Gear
+### T1 Gear
 
 I'd say breaking the 24 hour barrier is really gear independent. Its not like having a leatherman or not is going to save you the weight that will push you across the line. Make sure you have enough of the stuff you know you'll need, like Chamois creme, and make sure you have tested out the lights. I set up my lights pointing at the wall in a dark room, then I took a picture. 8 hours later I went back and checked the light by comparing another picture. Based on that I decided to take extra batteries because it made enough of a difference. Granted I never changed them but I was a bit concerned.
 
-### Bike Setup
+# Bike Setup
 
 ![](Images/BikeSetup.jpg)
 
 // aero bars
 
-### Route Planning / Weather Considerations
+# Route Planning / Weather Considerations
 
 // windy app
 
 ![](Images/Windy.png)
 
-### Execution
+# Execution
