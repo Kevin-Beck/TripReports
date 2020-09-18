@@ -8,6 +8,17 @@ https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/TripRepo
 
 Quick note, it is currently 5 days after I did the ride. I'd say 100% of my legs are back and 95% of my injuries are healed. I feel super fortunate to be feeling so well, I had a rough 2 days, but after that it was mainly just deep soreness. Figured I'd throw this data in here now.
 
+# Table of contents:
+1. [Required Warnings](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#required-warnings)
+2. [History](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#history-lesson)
+3. [Training](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#training)
+4. [Nutrition](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#nutrition)
+5. [Gear](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#gear-list)
+6. [Bike Setup](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#bike-setup)
+7. [Weather / Route](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#route-planning--weather-considerations)
+8. [Execution](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#execution)
+9. [Data](https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md#data)
+
 # Required Warnings
 
 This is not fun. I think in general anyone who does this understands that while parts will be fun in pieces, in general this is a competition to see how much you can endure both physically and mentally. Its easy to shrug off text on a page, but this is a significant trip. I think its a great place to start. As someone with lots of centuries and a taste for pushing personal limits its a perfect first ultra-like event. Its generally flat, it has impressive miles, you're off the road the entire way and there are ample places to stop and adjust if you need. You can stop at bike shops along the way (assuming they're open) and there are 24 hour gas stations and such that you can get to within a reasonable amount of time from the trail. There is also a lot of water along the way so you can safely assume you'll have access. This does not mean you can just rock a single water bottle and manage, but it does mean you dont need to pack in 10L of water. All these factors made this a tempting goal to me, 
@@ -382,6 +393,10 @@ I did it alone, but if you think its going to be more of a mental challenge for 
 You also should consider really plotting out your stops and finding out exactly where you will want to fill up water. Its a little tedious to do, and I was fortunately familiar enough to get away with not pre-plotting the water, but it would be a lot easier to know how much time you have to your next time checkpoint and how long you can stop to fill up water etc. Just really understanding your timings will be key to making sure you get to DC in 24 hours.
 
 # Data!
+
+I'm not going to post the stuff that can be found on strava, so just check out the ride there if you want the basics of speed and such. I'm mainly interested in breaking down the ride into more understandable chunks and looking into what the data has to say about my pace and performance. 
+
+https://www.strava.com/activities/4052875526
 
 Ok so first lets look at some splits. Note that Third 100 and Last 100 will overlap 65ish miles, but I still think its useful to think of it this way.
 
