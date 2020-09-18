@@ -1,8 +1,18 @@
 ## Pittsburgh to DC as Fast as Possible: A How To
 
+
+If you're just looking for the story about the trip you may be more inclined to check out the trip report here:
+
+https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/TripReport.md
+
+
+Quick note, it is currently 5 days after I did the ride. I'd say 100% of my legs are back and 95% of my injuries are healed. I feel super fortunate to be feeling so well, I had a rough 2 days, but after that it was mainly just deep soreness. Figured I'd throw this data in here now.
+
 # Required Warnings
 
-This is not fun. I think in general anyone who does this understands that while parts will be fun in pieces, in general this is a competition to see how much you can endure both physically and mentally. Its easy to shrug off text on a page, but this is a significant trip. I think its a great place to start. As someone with lots of centuries and a taste for pushing personal limits its a perfect first ultra-like event. Its generally flat, it has impressive miles, you're off the road the entire way and there are ample places to stop and adjust if you need. You can stop at bike shops along the way (assuming they're open) and there are 24 hour gas stations and such that you can get to within a reasonable amount of time from the trail. There is also tons of water along the way so you can safely assume you'll have access. This does not mean you can just rock a single water bottle and manage, but it does mean you dont need to pack in 10L of water. All these factors made this a tempting goal to me, I'm on the inexperienced side of things when it comes to super super long rides, but I did it by reading a bunch and trying to find as many helpful tips as possible. I'm hoping arranging all of that info here will assist the next person and really open up the trip to more people.
+This is not fun. I think in general anyone who does this understands that while parts will be fun in pieces, in general this is a competition to see how much you can endure both physically and mentally. Its easy to shrug off text on a page, but this is a significant trip. I think its a great place to start. As someone with lots of centuries and a taste for pushing personal limits its a perfect first ultra-like event. Its generally flat, it has impressive miles, you're off the road the entire way and there are ample places to stop and adjust if you need. You can stop at bike shops along the way (assuming they're open) and there are 24 hour gas stations and such that you can get to within a reasonable amount of time from the trail. There is also a lot of water along the way so you can safely assume you'll have access. This does not mean you can just rock a single water bottle and manage, but it does mean you dont need to pack in 10L of water. All these factors made this a tempting goal to me, 
+
+I'm on the inexperienced side of things when it comes to super super long rides, but I did it by reading a bunch and trying to find as many helpful tips as possible. I'm hoping arranging all of that info here will assist the next person and really open up the trip to more people. Also this is for Pittsburgh to DC, I wanted to go that direction, I dont know if its advised to go the other way. I just picked the way that was easier for me and made sense. I also want to note that the GAP is technically closed after dark I believe, not that it would really matter to anyone anyways.
 
 # History Lesson
 
@@ -353,13 +363,68 @@ END OF LONG STORY.
 
 I'm going to go over the things I did and how to change them. Leave later. If you can sleep in you should probably sleep in and leave at around 9-10. I'm assuming you're going to absolutely crush this ride so you're shooting for a finish time of 21 hours and not 23. Leaving at 10am means you'll get sun up to push through at the finish. If you cant sleep in however, I'd just leave whenever you wake up after a good nights sleep. No sense sitting around waiting to kick off the ride just to maybe get light. I definitely think getting a full good nights sleep is well worth it here. Also I liked my strategy of putting on a ton of water weight before hand because it seemed to help. So sleep and water up the days before the trip.
 
+On the morning of you're going to eat breakfast immediately after waking up, then again before you leave, almost 1500 calories of regular food. You'll have a ride prepared so you dont have to worry about the commute by bike or car, someone will drop you off at the point. This will get you on the trail on fresh legs with tons of food digesting.
+
+On the bike you'll be strictly eating your required calories without fail. You'll also be drinking water at the pace you've set out for yourself. This will enable you to maintain your fueling perfectly. Also beware of pushing too hard, you're going to be putting 
+
 Dont stop, well you cant stop, but even still you're not going to be stopping. I'd shoot for less than 10 minutes of stopped time for the first 100mi. Theres really no reason why you have to stop so just get through it. Going over the mountain is harder, but its not hard, so just get over it. I'm confident saying its possible given weather conditions to get into cumberland with an average speed of 18 mph. Had wind not been an issue for me I think I was going to get about 17.7mph. You can do better. Plus you're only stopping to fill up bottles maybe 3 times. That gets you into cumberland at about 8h35m. You'll do a super fast swap out for night riding gear, do a quick stretch while eating and drinking up, then you're off. You'll find water soon enough on the C&O so just get to it. Topping off your water you'll head down the C&O. At this point it is routine. You're not even close to tired yet, you've got your caffeine and pain killers on deck. You're well fueled by keeping on top of it so far and you hit the halfway point at 9h45m a full 50 minutes ahead of me.
 
-Night falls and your lights keep the trail at daylight levels. You're able to keep your average speed of about 17.5 through the night. The C&O fastest time is around 10 hours and you're not too far behind it. You pull into DC, which you know like the back of your hand. 10h15m of biking and 30m of stopped time getting water and reloading food. This puts you at 10:45 on the C&O and 8:35 on the GAP.
+Night falls and your lights keep the trail at daylight levels. You're able to keep your average speed of about 17.5 through the night. There arent any issues with the trail because you've waited until the conditions were precisely what you wanted. The C&O fastest time is around 10 hours and you're not too far behind it. You pull into DC, which you know like the back of your hand. 10h15m of biking and 30m of stopped time getting water and reloading food. This puts you at 10:45 on the C&O and 8:35 on the GAP.
 
 19:20, absolutely crushing the record. You're the true legend of the GAP + C&O. Your strava is about to blow up for real. People are losing their minds. I leave a comment on your ride that says, "You are a machine, congrats on being an absolute monster!"
 
 ### T1 Execution
 
-You're going to want to have deadlines set up. Just know when you need to be where. If you're not at halfway by 11 hours you're going to want to evaluate your condition. You more than likely arent going to get any faster on the second half so be prepared to bail if you havent set a pace you want. No sense in getting to halfway at 12:30 and racing the clock only to miss by 5 minutes. You're shooting for 24 so dont mess around. I'm guessing you have a lot more in the tank than you think you do, so just do your best to get the halfway point with lots of room to spare. Then you can just work the routine for the rest of the trip.
+You're going to want to have deadlines set up. Just know when you need to be at a couple different points. If you're not at halfway by 11 hours you're going to want to evaluate your condition. You more than likely arent going to get any faster on the second half so be prepared to bail if you havent set a pace you want. No sense in getting to halfway at 12h30m and racing the clock only to miss by 5 minutes. You're shooting for 24 so dont mess around. I'm guessing you have a lot more in the tank than you think you do, so just do your best to get the halfway point with lots of room to spare. Then you can just work the routine for the rest of the trip.
+
+I did it alone, but if you think its going to be more of a mental challenge for you than a physical one, I'd suggest riding with a friend. Its really really lonely out there in the middle of the night. It would have been nice to just be able to say "This is wild, yeah?" to someone every once in a while.
+
+You also should consider really plotting out your stops and finding out exactly where you will want to fill up water. Its a little tedious to do, and I was fortunately familiar enough to get away with not pre-plotting the water, but it would be a lot easier to know how much time you have to your next time checkpoint and how long you can stop to fill up water etc. Just really understanding your timings will be key to making sure you get to DC in 24 hours.
+
+# Data Science!
+
+Ok so first lets look at some splits. Note that Third 100 and Last 100 will overlap 65ish miles, but I still think its useful to think of it this way.
+
+---------------|- First 100 -|- Second 100 -|- Third 100 -|- Last 100  |
+
+Total Time     |  6h15m43s   |  6h42m17s    |  7h16m08s   |  7h29m56s  |
+
+Moving Time    |  5h53m09s   |  6h03m26s    |  6h45m40s   |  7h05m58s  |
+
+Stopped time   |  22m34s     |  38m51s      |  30m28s     |  23m58s    |
+
+
+I think a lot of people think in terms of centuries so this helps make that clearer. The first century includes the stop at connellsville which was a big disappointment for me. I think I could have held that first 100 to less than 10 minutes. The second one represents some frustration during the climbing and my stopped time is way higher than expected. I think this also reflects how long I stopped to switch to night gear at the switching point of the GAP to C&O transition.  In optimal conditions this stopped time could be less than 20 minutes.
+
+I'm only making a note of this because I think the first 200 miles can be done at 6h centuries without too much worry. The stopped time is what kills you in the beginning. As you can see in the third 100 my stopped time actually decreased, but now my pace is taking a huge hit. This decrease in speed is even more obvious in the last 100 where my stopped time rivals the first century but my pace is at a crawl.
+
+It really felt like I stopped a lot during that last century but the reality of it was that I didnt have anything to stop for. I was just stopping. This stopping is shown in the decreased pace because I'd have to restart and get back up to speed. Then stop. Then get back up to speed. I wasnt stopping for more than maybe 15-30 seconds but I was doing this ever 10 minutes out of exhaustion. 
+
+Lets break the entire ride into 55 mile sections. Which will give us 6 pieces to look at.
+
+![](Images/TimevsMiles.png)
+
+This makes it a bit easier to see how much of a difference the stopped time makes. 55 has only 3 and half minutes of stopped time. The connellsville stop put me back almost 30 minutes. leading to a big spike for elapsed time. Then the downhill section saves time, but my fitness obviously fades as the time goes on. I am pretty stoked about that effort towards the end to stop stopping and just grind it out at like 15 mph.
+
+Here is a graph that really has a variable Y axis representing both watts and beats per minute. I liked this graph though because it shows both the decrease in output in terms of watts, but also derease in input through the decrease in heartrate. Obviously these things coorelate pretty well but it was still something worth taking a look at.
+
+![](Images/Stacked.png)
+
+Also worth mentioning is the split from the start to the top.
+
+
+125 miles, 8h2m38s total time with 32m17s stopped time. 
+
+This was obviously really nice. I was feeling pretty good about it honestly, but keep in mind that like 28 of those minutes were at my single stop. I'm certain that my time is very soft and if someone takes the time to get comfortable with the trip they will absolutely crush it.
+
+After the trip down the hill at ~20mph my trip from cumberland to DC came in at 184 miles.
+13h20m46s with 51m20s of stopped time.
+
+I'm only mentioning this because if I hadnt taken nearly 30 minutes in connellsville and 15 minutes in cumberland I could have certainly just saved 40 minutes.  The point is, stopping is what ruins your time, not your pace. I obviously took a long time to get to DC at ~12.5 hours my speed was 14.6mph. Thats not that fast. Had I got 16mph, which is quite a bit faster, I'd have saved about an hour. Or I could have gone the exact same speed and just not have stopped as much.
+
+Over this length of time and distance you're really only hurting yourself with stops, you gotta be clean quick and efficient when it comes to the down time because you're never going to be fast enough to catch the turtle in this trip. If you take a 2 hour nap you have to be cruising at a cool 17.4 mph to keep up with 14.6 mph me going slow and steady and stopping for hours.
+
+I think I'm getting tired of writing more info. I think I've made my point. I think there are some interesting pieces of info here and if someone wants to read through it thats great. I really hope someone crushes the record because I think there's lots of room to do it.
+
+Good luck and have fun while not having fun taking on this challenge.
 
