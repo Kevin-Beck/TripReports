@@ -6,6 +6,10 @@ For an unbelievably long description of everything about this trip and for advic
 https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/DetailedGuide.md
 
 
+For a list of every known rider/pair to have done the trip:
+
+https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/CurrentKnownList.md
+
 
 As someone who loves to analyze things, prepare for a lot of overanalyzing. I'm going to go all the way through every step of this trip in a way that I wish existed when I decided to take this on. Hopefully someone is reading this because they want to take on this awful challenge and I'm going to do everything in my power to make you think "Oh this doesnt seem that bad, maybe someday." Then the idea burns for a while and you'll come back looking for all these tips. To save everyone else the agony of reading through the overly detailed info, first things first. The Trip report.
 

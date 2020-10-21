@@ -6,6 +6,10 @@ If you're just looking for the story about the trip you may be more inclined to 
 https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/TripReport.md
 
 
+For a list of every known rider/pair to have done the trip:
+
+https://github.com/Kevin-Beck/TripReports/blob/master/Pitt-DC-Solo-1Day/CurrentKnownList.md
+
 Quick note, it is currently 5 days after I did the ride. I'd say 100% of my legs are back and 95% of my injuries are healed. I feel super fortunate to be feeling so well, I had a rough 2 days, but after that it was mainly just deep soreness. Figured I'd throw this data in here now.
 
 # Table of contents:
