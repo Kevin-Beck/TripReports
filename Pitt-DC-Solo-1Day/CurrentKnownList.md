@@ -14,4 +14,4 @@ If you want to be added to the list, send me an Email at kab5417@gmail.com with 
 6. 22h53m47s    Solo Self-supported ->  Kevin Beck                     |   https://www.strava.com/activities/4052875526
 7. 21h36m17s    Solo Supported      ->  Jeff Koontz                    |   https://www.strava.com/activities/4113292291
 8. 20h52m58s    Pair Self-supported ->  Dylan Stagner + Jeremy Gardner |   https://www.strava.com/activities/4148536064
-
+9. 22h35m28s    Solo Self-supported ->  Cass Fino-Radin                |   https://www.strava.com/activities/9121798719
